@@ -42,3 +42,6 @@ Before you start, make sure you have the following:
            message = _message;
        }
    }
+
+   2. **Write or Paste Your Solidity Code:**
+
